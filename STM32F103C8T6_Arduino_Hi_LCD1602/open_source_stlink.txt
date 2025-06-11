@@ -1,3 +1,5 @@
 download
 
 https://github.com/stlink-org/stlink
+
+for st-flash.exe, - a flash manipulation tool
